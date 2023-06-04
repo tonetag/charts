@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  tonetag:
+  - apiVersion: v2
+    appVersion: 1.0.3
+    created: "2023-06-04T00:11:05.072753941Z"
+    description: Helm chart used to deploy tonetag.is
+    digest: 17bb2216a5cb56bf08a605664b1fd9c5191745eb03979d0c966d301fe086e2a4
+    name: tonetag
+    type: application
+    urls:
+    - https://github.com/tonetag/charts/releases/download/tonetag-2.0.0/tonetag-2.0.0.tgz
+    version: 2.0.0
+generated: "2023-06-04T00:11:05.072759841Z"
